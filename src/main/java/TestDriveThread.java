@@ -15,6 +15,7 @@ public class TestDriveThread {
     }
 
     public static void firstMethod() {
+
         for (int i = 0; i < arr.length; i++) {
             arr[i] = 1.0f;
         }
